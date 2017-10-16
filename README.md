@@ -1,6 +1,6 @@
 # mackerel-plugin-sample
 
-Sample plugin for mackerel.io agent.
+Sample plugin for mackerel.io agent.  This repository releases an artifact to Github Releases, which satisfy the format for mkr plugin installer.
 
 ## Synopsis
 
