@@ -17,7 +17,7 @@ command = "/path/to/mackerel-plugin-sample"
 
 ## How to release
 
-[goxc](https://github.com/laher/goxc) and [ghr](https://github.com/tcnksm/ghr) are used to release.
+[goxz](https://github.com/Songmu/goxz) and [ghr](https://github.com/tcnksm/ghr) are used to release.
 
 ### Release by TravisCI
 
@@ -31,7 +31,7 @@ Don't forget setting GITHUB_TOKEN as environment variables in TravisCI.  If you 
 
 ### Release by manually
 
-1. Install goxc and ghr by `make setup`
+1. Install goxz and ghr by `make setup`
 2. Edit CHANGELOG.md, git commit, git push
 3. `git tag vx.y.z`
 4. GITHUB_TOKEN=... script/release
