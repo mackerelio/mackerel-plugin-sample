@@ -27,8 +27,6 @@ command = "/path/to/mackerel-plugin-sample"
 4. Wait to build at https://github.com/mackerelio/mackerel-plugin-sample/actions/workflows/goreleaser.yml
 5. See https://github.com/mackerelio/mackerel-plugin-sample/releases
 
-Don't forget setting GITHUB_TOKEN as environment variables in TravisCI.  If you don't know how, see https://docs.travis-ci.com/user/environment-variables/#Defining-Variables-in-Repository-Settings .
-
 ### Release by manually
 
 1. Install goreleaser https://goreleaser.com/install/
