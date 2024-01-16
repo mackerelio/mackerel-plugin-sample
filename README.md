@@ -17,8 +17,6 @@ command = "/path/to/mackerel-plugin-sample"
 
 ## How to release
 
-[goxz](https://github.com/Songmu/goxz) and [ghr](https://github.com/tcnksm/ghr) are used to release.
-
 ### Release by GitHub Actions
 
 1. Edit CHANGELOG.md, git commit, git push
